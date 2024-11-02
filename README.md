@@ -1,9 +1,9 @@
 ### Ciao, I'm Manuele 👋
 
-- Machine learning engineer based in Bari, Italy.
-- Working at <a href="https://www.reply.com/">Connect Reply</a>.
-- MSc in Data Science and Engineering at Politecnico di Torino.
-- Interested in natural language processing, computer vision, generative AI, MLOps, web development, and anything to do with data.
+- Data Engineer and Machine Learning Engineer
+- Based in Bari, Italy
+- Working at [Reply](www.reply.com)
+- MSc in Data Science and Engineering at [Politecnico di Torino](www.polito.it)
 
-<p align="center"><a href="https://manuelemacchia.com">manuelemacchia.com</a></p>
+<p align="center"><a href="https://manuele.dev">manuele.dev</a></p>
 <p align="center">👨‍💻</p>
