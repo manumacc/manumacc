@@ -1,8 +1,7 @@
 ### Ciao, I'm Manuele 👋
 
-- Data Engineer and Machine Learning Engineer
+- Data Engineer working at [Pirelli](https://www.pirelli.com)
 - Based in Bari, Italy
-- Working at [Reply](www.reply.com)
 - MSc in Data Science and Engineering at [Politecnico di Torino](www.polito.it)
 
 <p align="center"><a href="https://manuele.dev">manuele.dev</a></p>
